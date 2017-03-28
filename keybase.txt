@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/peachy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://peachmods.co
+  * I am peachy (https://keybase.io/peachy) on keybase.
+  * I have a public key with fingerprint 6C98 52E1 F872 A68B 0929  575F 51B4 53DE 1D5F C2E3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ae8b759d725998593f650b9478ac2a9f20e7498444de03960c9df32def064f440a",
+            "fingerprint": "6c9852e1f872a68b0929575f51b453de1d5fc2e3",
+            "host": "keybase.io",
+            "key_id": "51b453de1d5fc2e3",
+            "kid": "010148f0b7066a5fec0787481321ea135cb1f4f682e1c140ccf0d08b86053d8dc9b40a",
+            "uid": "66e9f9f374476012a2bc89cc8b2d3819",
+            "username": "peachy"
+        },
+        "service": {
+            "hostname": "peachmods.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490664436,
+    "expire_in": 157680000,
+    "prev": "a17e35b426bb291565128f6617f6d7dff1389eb7bcb89177dd759985863b142c",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNoAnicbVJ/TFVVHH+PF0JPQGrIbEzUy5y0wO7Pc895FTIRgQSNQEQjHvfHubw7
+4N3Xuw+UwLWgJpX8qEgCTS0sGaxEQqPxY4DWCucSplisWQ1mgFmsoFAiupdy64/O
+P2fn+/18Pufz+Z5zMdhmsVvTOzNurHUOjlsvDdQXW7K/6Z4tI0RNLiUcZUQBXt5w
+oYx1n7NAlQkHQVI0KWAo8hySeZpDCHKIUQBHiojloSDRAlJoEvMsgizLyphkECAl
+JCsMLWOFBKzCsqRAxBCK6s7HXo9XdfsMWSAZQjSmFMjTAoAiiWjE8ZzCUSLLMTKm
+ZE6RaMwYRJemmwzDnCjoeLOqGTXj4Fy29z/4e75JioUKKfIkAAKnYInkIc9CiqEp
+LFAMJ4mUwioAGiYkiiUlSSFlEooQkIYelCUk/uO7eFkOAIwUpDA8y/LAmIlAixJE
+kgRFWmYghUygjr1uoQgbaA8WJFcpcTCGMGolqoTNsZo5/tsv0mR9s2Sm8Xg1nyZp
+hUbH5fN5HCbRV+oxkfux6PxXwymqbtkYokEowV5d1dyEgzKQkk81RSkWGUlZlgEx
+BD7gUb3YqZoIjgeQNJZ5DS4xJAWKxwwnsjQQRRpRHOAoGioAULwCZF5WFIqBCIu8
+KIkQUTwvy/zys0PAiBRLS4SZ6jm3RjiQYVPINyR1Nd8t+Iq9mDg4OJBzn8Vqt6zw
+9zM/l8V+f+i9L3f91qol3ZbVu7ht9+nKV/zQ8EtTIbnHO7Oa4oIWP9VjKn+hXu2v
+PeN2Rf56CVa/u2Pl2Jw1tkNz3hieTxhIbN8ye/bmrcX5b7N0rWzSPtFet/VIlyuw
+vlVFZ5tee+hqcPmG0Ll2sjZ1UyawSN37lo4m5/qX+f/Wyq0b5Wbm26B/1B2P4wtv
+wtKc9YxM73c4NjSI56rXnkhPa777Ax0V996RZzpzyOx0IS/vr+QWuWG8tu1OVnrS
+yUejEyP2Fq0/Fp0k9A/c3rX9cF1XRPN0RyD79IuDAatf/uQyVxY2Un1t6q2Fo2G7
+hleObWzyrq4+HtwrJLwdeiU9oGbiscvF/Xabbln34HTE5KHovNjIni/5vtSCq3Th
+s0G9H3HTHaE7cu0LFzP8XghUq9SqlGPl2GoNt6V8XZUzVJmW6BcfG389+/fZhjdT
+k+jvG7c3xJ6XtwTc3t21c/2Klg8D3vkg4QDoK9jW36iHt4Y8/+R444+RLa9PBN4c
+ib1WEVXV07VnKflckOyrqZqt6A7b0zHakdRJz2wqP+X4qn56L/0T88eFCmddt6vw
+/cc1oJVkTA0173zEduF8oO3zP5lVY0Nx+9LIvs888V3fbVwT0n9FKVvSXTMP9LzB
+9xwKB9Upd5/6+GdGzSw6PPywdWtQJjWQPRpX1KbXjE3yp5NPLj4xMssuMNN6Y/6a
+U3jxxIq/AfkptxU=
+=dDH+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/peachy
+
+==================================================================
